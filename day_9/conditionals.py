@@ -1,4 +1,4 @@
-user = input('Enter your age: ')
+  user = input('Enter your age: ')
 user = int(user)
 if user >= 18:
     print("You are old enough to drive")
@@ -116,6 +116,4 @@ print()
 if (person['is_marred'] == True) and  (person['country'] == "Finland"):
     print("Asabeneh Yetayeh lives in Finland. He is married.")   
     
-
-
-
+    
